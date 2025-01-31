@@ -1,0 +1,14 @@
+C:\Users\griga\Documents\Rider\IInheritance\IInheritance\bin\Debug\net9.0\IInheritance.exe
+C:\Users\griga\Documents\Rider\IInheritance\IInheritance\bin\Debug\net9.0\IInheritance.deps.json
+C:\Users\griga\Documents\Rider\IInheritance\IInheritance\bin\Debug\net9.0\IInheritance.runtimeconfig.json
+C:\Users\griga\Documents\Rider\IInheritance\IInheritance\bin\Debug\net9.0\IInheritance.dll
+C:\Users\griga\Documents\Rider\IInheritance\IInheritance\bin\Debug\net9.0\IInheritance.pdb
+C:\Users\griga\Documents\Rider\IInheritance\IInheritance\obj\Debug\net9.0\IInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\griga\Documents\Rider\IInheritance\IInheritance\obj\Debug\net9.0\IInheritance.AssemblyInfoInputs.cache
+C:\Users\griga\Documents\Rider\IInheritance\IInheritance\obj\Debug\net9.0\IInheritance.AssemblyInfo.cs
+C:\Users\griga\Documents\Rider\IInheritance\IInheritance\obj\Debug\net9.0\IInheritance.csproj.CoreCompileInputs.cache
+C:\Users\griga\Documents\Rider\IInheritance\IInheritance\obj\Debug\net9.0\IInheritance.dll
+C:\Users\griga\Documents\Rider\IInheritance\IInheritance\obj\Debug\net9.0\refint\IInheritance.dll
+C:\Users\griga\Documents\Rider\IInheritance\IInheritance\obj\Debug\net9.0\IInheritance.pdb
+C:\Users\griga\Documents\Rider\IInheritance\IInheritance\obj\Debug\net9.0\IInheritance.genruntimeconfig.cache
+C:\Users\griga\Documents\Rider\IInheritance\IInheritance\obj\Debug\net9.0\ref\IInheritance.dll
